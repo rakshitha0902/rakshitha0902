@@ -28,6 +28,6 @@ Explore data through tools like RapidMiner, DataRobot, and Streamlit
 🌍 Currently working part-time at Apple Green (Ireland), where I blend customer-facing roles with a tech-savvy mindset to drive value.
 
 📫 Let’s connect:
-www.linkedin.com/in/rakshitharamachandra 
-https://www.datascienceportfol.io/rakshithachandragowd
-rakshithagowda665@gmail.com
+Linkedin : www.linkedin.com/in/rakshitharamachandra 
+Portfolio : https://www.datascienceportfol.io/rakshithachandragowd
+Mail : rakshithagowda665@gmail.com
